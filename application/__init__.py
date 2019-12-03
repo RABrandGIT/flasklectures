@@ -21,5 +21,3 @@ app.config['SECRET_KEY'] = '7218a9143c27c16610765205a1b21cb7'
 
 from application import routes
 
-login_manager = LoginManager(app)
-login_manager.login_view = 'login'
