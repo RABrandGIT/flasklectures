@@ -8,12 +8,16 @@ Flask-WTF==0.14.2
 itsdangerous==1.1.0
 Jinja2==2.10.3
 MarkupSafe==1.1.1
-pkg-resources==0.0.0
 pycparser==2.19
 PyMySQL==0.9.3
 six==1.13.0
 SQLAlchemy==1.3.11
 Werkzeug==0.16.0
 WTForms==2.2.1
+<<<<<<< HEAD
 gunicorn==20.0.4
 
+=======
+flask_login
+gunicorn==20.0.4
+>>>>>>> 1fa95a4febc4b6ffa584129201d177c7c47e5380
